@@ -1,0 +1,30 @@
+36908_at 4360 mannose receptor, C type 1 MRC1
+35647_at 7508 XPC complex subunit, DNA damage recognition and repair factor XPC
+34054_at 970 CD70 molecule CD70
+38836_at 23467 neuronal pentraxin receptor NPTXR
+38886_i_at 9077 DIRAS family GTPase 3 DIRAS3
+160029_at 5579 protein kinase C beta PRKCB
+34269_at 26098 erythroid differentiation regulatory factor 1 EDRF1
+36529_at 79090 trafficking protein particle complex 6A TRAPPC6A
+35070_at 6013 relaxin 1 RLN1
+696_at 3234 homeobox D8 HOXD8
+32482_at 479 ATPase H+/K+ transporting non-gastric alpha2 subunit ATP12A
+33764_at 9568 gamma-aminobutyric acid type B receptor subunit 2 GABBR2
+377_g_at 10512 semaphorin 3C SEMA3C
+35882_at 3705 inositol-tetrakisphosphate 1-kinase ITPK1
+1147_at 7025 nuclear receptor subfamily 2 group F member 1 NR2F1
+37508_f_at 55660 pre-mRNA processing factor 40 homolog A PRPF40A
+1914_at 8900 cyclin A1 CCNA1
+1165_at 3606 interleukin 18 IL18
+32227_at 5552 serglycin SRGN
+40389_at 10991 solute carrier family 38 member 3 SLC38A3
+40964_at 3099 hexokinase 2 HK2
+41284_at 3632 inositol polyphosphate-5-phosphatase A INPP5A
+34154_at 1141 cholinergic receptor nicotinic beta 2 subunit CHRNB2
+40985_g_at 27229 tubulin gamma complex associated protein 4 TUBGCP4
+36890_at 5493 periplakin PPL
+39934_at 9609 RAB36, member RAS oncogene family RAB36
+32537_at 23205 acyl-CoA synthetase bubblegum family member 1 ACSBG1
+35697_at 5805 6-pyruvoyltetrahydropterin synthase PTS
+32801_at 9870 apoptosis resistant E3 ubiquitin protein ligase 1 AREL1
+1704_at 7410 vav guanine nucleotide exchange factor 2 VAV2
